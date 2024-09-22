@@ -15,5 +15,5 @@ Currently, there are no configuration options for the plugin, but we can add the
   - ✅ Tested on 1.21.1
 
 
-## Feel free to open an [issue](https://github.com/TrueDarkLord/{pluginName}/issues) if there are problems.
+## Feel free to open an [issue](https://github.com/TrueDarkLord/PickupBuddingAmethyst/issues) if there are problems.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O0OI3A2)
