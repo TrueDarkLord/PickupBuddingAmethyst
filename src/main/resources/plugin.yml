@@ -1,5 +1,5 @@
 name: PickupBuddingAmethyst
-version: '1.21.1-0'
+version: '${version}'
 main: me.truedarklord.pickupBuddingAmethyst.PickupBuddingAmethyst
 api-version: '1.21'
 authors: [ TrueDarkLord ]
