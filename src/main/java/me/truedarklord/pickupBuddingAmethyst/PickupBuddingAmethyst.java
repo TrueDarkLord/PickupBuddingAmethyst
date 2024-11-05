@@ -1,12 +1,15 @@
 package me.truedarklord.pickupBuddingAmethyst;
 
 import me.truedarklord.pickupBuddingAmethyst.listeners.BlockBreak;
+import me.truedarklord.pickupBuddingAmethyst.metrics.Metrics;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class PickupBuddingAmethyst extends JavaPlugin {
 
     @Override
     public void onEnable() {
+        Metrics metrics = new Metrics(this, 23820);
+
         advertise();
 
         new BlockBreak(this);
