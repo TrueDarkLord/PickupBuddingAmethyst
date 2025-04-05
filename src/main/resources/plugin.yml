@@ -4,3 +4,5 @@ main: me.truedarklord.pickupBuddingAmethyst.PickupBuddingAmethyst
 api-version: '1.21'
 authors: [ TrueDarkLord ]
 description: Lets you pick up budding amethysts.
+
+folia-supported: true
